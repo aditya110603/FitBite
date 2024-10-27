@@ -269,7 +269,61 @@ struct UserHomeScreen: View {
                             .foregroundStyle(Color.textColor)
                         Spacer()
                     }.padding([.horizontal, .top])
+                    
                 }
+//                Section{
+//                    LazyVGrid(columns: [GridItem()], alignment: .center, spacing: 30, content: {
+//                        ForEach(arrHomeItems) { home in
+//                            if let title = home.title {
+//                                if let gradient = home.bgColor{
+//                                    
+//                                    VStack(alignment: .leading, spacing: 0){
+//                                        Text("\(title)")
+//                                            .bold()
+//                                            .font(.title)
+//                                            .foregroundStyle(Color.textColor)
+//                                        
+//                                        ZStack(alignment: .bottom){
+//                                            RoundedRectangle(cornerRadius: 15)
+//                                                .fill(gradient)
+//                                            ZStack(alignment: .center){
+//                                                UnevenRoundedRectangle(topLeadingRadius: 0, bottomLeadingRadius: 15, bottomTrailingRadius: 15, topTrailingRadius: 0)
+//                                                    .fill(Color.black.opacity(0.5))
+//                                                Text("This is for purely text purpose which need to be edited later")
+//                                                    .font(.footnote)
+//                                                    .multilineTextAlignment(.center)
+//                                                    .lineLimit(3)
+//                                                    .foregroundStyle(Color.white)
+//                                                    .padding(5)
+//                                            }
+//                                            .frame(height: 75)
+//                                        }
+//                                    }.frame(height: 450)
+//                                        .padding(.horizontal)
+//                                        .onTapGesture {
+//                                            if title == "New"{
+//                                                
+//                                            }else if title == "Favourites"{
+//                                                
+//                                            }else if title == "Trending"{
+//                                                
+//                                            }else if title == "Suggestions"{
+//                                                
+//                                            }
+//                                        }
+//                                }
+//                            }
+//                        }
+//                    })
+//                } header: {
+//                    HStack{
+//                        Text("For you")
+//                            .bold()
+//                            .font(.title2)
+//                            .foregroundStyle(Color.textColor)
+//                        Spacer()
+//                    }.padding([.horizontal, .top])
+//                }
             }.onAppear(perform: {
                 fetchCalData()
                 fetchFoodRecommendations()
