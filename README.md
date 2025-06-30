@@ -1,6 +1,6 @@
-# 🥗 FitBite (iOS App)
+# 🥗 Fit Bite
 
-**FitBite** is a machine learning–powered iOS app designed to help users track, manage, and improve their nutrition through real-time food recognition, barcode scanning, and integration with Apple Health.
+**Fit Bite** is a machine learning–powered iOS app designed to help users track, manage, and improve their nutrition through real-time food recognition, barcode scanning, and integration with Apple Health.
 
 ---
 
@@ -61,7 +61,7 @@
 
 - **iOS**: Swift, SwiftUI, HealthKit  
 - **Machine Learning**: CoreML model (200+ food classes)  
-- **Data Storage**: Core Data / SQLite  
+- **Data Storage**: Core Data  
 - **API Integration**: Nutritionix for barcode data  
 - **Design**: MVVM Architecture, Custom UI components  
 
