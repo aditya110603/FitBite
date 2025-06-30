@@ -32,7 +32,7 @@
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%202.jpg" width="350"/>
+<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%202.jpg" style="width:250px; object-fit: cover;"/>
 
 ### 🔍 Food Detection
 
@@ -41,10 +41,10 @@
 | <img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%203.jpg" width="250"/> | <img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%204.jpg" width="250"/> | <img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%205.jpg" width="250"/> |
 
 ### 📊 Nutrition Dashboard
-<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%206.jpg" width="350"/>
+<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%206.jpg" style="width:250px; object-fit: cover;"/>
 
 ### ⚙️ Settings Screen
-<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%207.jpg" width="350"/>
+<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%207.jpg" style="width:250px; object-fit: cover;"/>
 
 ---
 
