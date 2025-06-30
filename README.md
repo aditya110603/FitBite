@@ -1,4 +1,4 @@
-# 🥗 Fit Bite
+# 🥗 FitBite
 
 **Fit Bite** is a machine learning–powered iOS app designed to help users track, manage, and improve their nutrition through real-time food recognition, barcode scanning, and integration with Apple Health.
 
