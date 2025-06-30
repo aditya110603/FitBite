@@ -32,18 +32,19 @@
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-![Home](https://raw.githubusercontent.com/aditya110603/FitBite/main/App%20UI/Picture%202.jpg)
+<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%202.jpg" width="350"/>
 
 ### 🔍 Food Detection
+
 | Log history | Manual entry | Nutrition details |
-|------------|-------------|-------------|
-| ![Log history](https://raw.githubusercontent.com/aditya110603/FitBite/main/App%20UI/Picture%203.jpg) | ![Manual entry](https://raw.githubusercontent.com/aditya110603/FitBite/main/App%20UI/Picture%204.jpg) | ![Nutrition details](https://raw.githubusercontent.com/aditya110603/FitBite/main/App%20UI/Picture%204.jpg) |
+|------------|--------------|-------------------|
+| <img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%203.jpg" width="250"/> | <img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%204.jpg" width="250"/> | <img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%205.jpg" width="250"/> |
 
 ### 📊 Nutrition Dashboard
-![Dashboard](https://raw.githubusercontent.com/aditya110603/FitBite/main/App%20UI/Picture%206.jpg)
+<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%206.jpg" width="350"/>
 
 ### ⚙️ Settings Screen
-![Settings](https://raw.githubusercontent.com/aditya110603/FitBite/main/App%20UI/Picture%207.jpg)
+<img src="https://github.com/aditya110603/FitBite/blob/main/App%20UI%20Photos/Picture%207.jpg" width="350"/>
 
 ---
 
